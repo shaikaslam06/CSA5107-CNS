@@ -1,0 +1,12 @@
+Python 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+=========================== RESTART: C:/MOVIE/p24.py ===========================
+Factoring n:
+ p = 59
+ q = 61
+phi(n) = 3480
+Public key: (e, n) = (31, 3599)
+Private key d = 3031
+Check: (e * d) % phi == 1 -> True
+Test: m=42, ciphertext=2543, decrypted=42

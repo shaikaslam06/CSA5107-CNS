@@ -1,0 +1,21 @@
+Python 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+=========================== RESTART: C:/MOVIE/p21.py ===========================
+Traceback (most recent call last):
+  File "C:/MOVIE/p21.py", line 1, in <module>
+    from Crypto.Cipher import AES
+ModuleNotFoundError: No module named 'Crypto'
+>>> 
+=========================== RESTART: C:/MOVIE/p21.py ===========================
+Original Message: HelloAESDemo
+Padded Length: 16 bytes
+
+ECB Encrypted: 87df85dd9262350cb1652d0338e9c729
+ECB Decrypted: HelloAESDemo
+
+CBC Encrypted: 9ed0171407d779e09f7039a4184650cb
+CBC Decrypted: HelloAESDemo
+
+CFB Encrypted: 811634750af53797d4a4938b3b6a23bf
+CFB Decrypted: HelloAESDemo

@@ -1,0 +1,10 @@
+Python 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+============================ RESTART: C:/MOVIE/p8.py ===========================
+Enter keyword: network
+Cipher Alphabet: NETWORKABCDFGHIJLMPQSUVXYZ
+Enter plaintext: we are discovered
+Encrypted text: vo nmo wbptiuomow
+Enter ciphertext to decrypt: vo nmo wbptiuomow
+Decrypted text: we are discovered
